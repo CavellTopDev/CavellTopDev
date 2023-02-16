@@ -60,8 +60,12 @@ Welcome to my portfolio! As a blue team member in the cybersecurity field with a
 <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" title="perl" alt="perl" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="vbscript" alt="vbscript" width="40" height="40"/>&nbsp; 
 
+ ---
+
+### :fire: My Stats :
+  https://github-readme-streak-stats.herokuapp.com/?user=your-CavellTopDev [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+  
 <!---
 **CavellTopDev/CavellTopDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
