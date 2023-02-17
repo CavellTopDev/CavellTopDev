@@ -63,24 +63,21 @@ Welcome to my portfolio! As a blue team member in the cybersecurity field with a
 
  ---
 
-### :fire:
+### 
   
   <picture>
 <source 
-        ![Cavell's GitHub stats](https://github-readme-stats.vercel.app/api?username=CavellTopDev&show_icons=true&theme=radical)
-  srcset="https://github-readme-stats.vercel.app/api?username=CavellTopDev&show_icons=true&theme=cobalt&show_icons=true"
+        ![Cavell's GitHub stats](https://github-readme-stats.vercel.app/api?username=CavellTopDev&show_icons=true&theme=cobalt)
+  src=("https://github-readme-stats.vercel.app/api?username=CavellTopDev&show_icons=true&theme=cobalt")
   media="(prefers-color-scheme: cobalt)"
         
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=CavellTopDev&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=CavellTopDev&show_icons=true&theme=cobalt""
   media="(prefers-color-scheme: cobalt), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=CavellTopDev&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=CavellTopDev&show_icons=true&theme=cobalt"" />
 </picture>
-  
-  https://github-readme-streak-stats.herokuapp.com/?user=CavellTopDev
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=CavellTopDev)](https://git.io/streak-stats)
   
 <!---
 **CavellTopDev/CavellTopDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
