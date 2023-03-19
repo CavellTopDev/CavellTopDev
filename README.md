@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-<a href="www.linkedin.com/in/cavelle-ndlovu-0a1b05214">
+<a href="www.linkedin.com/in/cavelle-ndlovu-0a1b05214](https://www.linkedin.com/in/cavelle-ndlovu-0a1b05214/?lipi=urn%3Ali%3Apage%3Ad_flagship3_resumebuilder%3B16OELNnMReGYj7VXFxDR7A%3D%3D">
   <img src="https://img.shields.io/badge/LinkedIn-Let's Connect!-blueviolet?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
   <a href="https://twitter.com/CavelleNdlovu">
